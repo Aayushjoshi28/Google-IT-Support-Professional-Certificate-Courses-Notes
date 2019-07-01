@@ -1,5 +1,8 @@
 # Google-IT-Support-Professional-Certificate-Course-Notes
-
+![Grow ](https://github.com/mais-hatem/Google-IT-Support-Professional-Certificate-Course-Notes/blob/master/images/Grow_with_Google.svg)
+<img src="https://github.com/mais-hatem/Google-IT-Support-Professional-Certificate-Course-Notes/blob/master/images/Grow_with_Google.svg">
+<br>
+Source: https://grow.google/
 *Add index here*
 
 ## I - Technical Support Fundamentals
