@@ -17,3 +17,7 @@
 ## III - Operating Systems and You: Becoming a Power User
 ## IV - System Administration and IT Infrastructure Services
 ## V - IT Security: Defense against the digital dark arts
+
+
+Source: Coursera.org, Grow With Google. <br>
+*Disclaimer: I did not author any of the previously stated information. I just took notes as I went through the courses to make it easier to revise and remember them, and shared them here with everyone.*
