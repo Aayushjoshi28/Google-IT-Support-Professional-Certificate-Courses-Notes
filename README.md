@@ -1,9 +1,6 @@
 # Google-IT-Support-Professional-Certificate-Course-Notes
 <p align="center">
   <img src="https://grow.google/static/images/logo_GwG.svg">
-  
-  <img />
-  Source: https://grow.google/
 </p>
 <br>
 *Add index here*
@@ -15,4 +12,5 @@
 ## V - IT Security: Defense against the digital dark arts
 
 Source: Coursera.org, Grow With Google. <br>
+Header Image https://grow.google/ <br>
 *Disclaimer: I did not author any of the previously stated information. I just took notes as I went through the courses to make it easier to revise and remember them, and shared them here with everyone. This is not a substitue of the MOOC, it's just a collection of the highlights*
