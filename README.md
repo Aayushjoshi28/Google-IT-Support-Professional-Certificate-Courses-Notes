@@ -1,7 +1,11 @@
 # Google-IT-Support-Professional-Certificate-Course-Notes
-![Grow with Google Logo](https://grow.google/static/images/logo_GwG.svg)
+<p align="center">
+  <img src="https://grow.google/static/images/logo_GwG.svg">
+  
+  <img />
+  Source: https://grow.google/
+</p>
 <br>
-Source: https://grow.google/
 *Add index here*
 
 ## I - Technical Support Fundamentals
